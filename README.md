@@ -1,6 +1,6 @@
 # Bubbles-Delight
 
-Bubbles-Delight is a food ordering experience for a fictitious single restaurant that sells bubbletea. Hungry clients of this restaurant can visit its website, select one or more drinks, and place an order for pick-up. The restaurant owner can then specify how long it will take to fulfill the order and the website updates accordingly for both the client and restuarant.
+Bubbles-Delight is a food ordering experience for a fictitious single restaurant that sells bubbletea. Hungry clients of this restaurant can visit its website, select one or more drinks, and place an order for pick-up. The restaurant owner can then specify how long it will take to fulfill the order and the website updates accordingly for both the client and restaurant.
 
 This app was created as part of the midterm project for Lighthouse Labs (Web Development Bootcamp). The goal was to create a full-stack application from start to finish (including project planning and a 5 minute demo) in just one week.
 
@@ -33,7 +33,7 @@ Order Status Updates
 ## Technical Specifications
 
 - **Languages**: Javascript, HTML, CSS
-- **Frameworks & Libraries**: jQuery, Node, Express, EJS, SASS, Bootstrap
+- **Frameworks & Libraries**: jQuery, AJAX, Node, Express, EJS, SASS, Bootstrap
 - **Databases**: PostgreSQL
 - **APIs**: Twilio
 
