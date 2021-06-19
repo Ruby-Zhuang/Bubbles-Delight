@@ -24,6 +24,7 @@ Order Status Updates
 
 ## Functional Behavioural
 
+- Customers and the restaurant owner can log in accordingly (with special privileges for the owner)
 - Customers can order customized bubble-tea orders online
 - Customers can edit the details of an order or cancel the order before submitting it
 - When an order has been made, customers will receive updates via the website and text messages to indicate the order status
